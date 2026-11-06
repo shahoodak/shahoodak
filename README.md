@@ -8,8 +8,8 @@ Welcome to my GitHub space! I am a software engineer dedicated to building solid
 ## 🛠️ My Toolbox
 
 ### Core Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/_-CPP-F34B7D.svg?style=for-the-badge)
+![Java](https://shields.io)
+![C++](https://shields.io)
 
 ### Web & Scripting
 ![Python](https://shields.io)
