@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Shahood Ahmad Khan! 👋
+### 🚀 Software Engineer
 
-<!--
-**shahoodak/shahoodak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub space! I am a software engineer dedicated to building solid applications, mastering system architecture, and recreating game mechanics. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Toolbox
+
+### Core Languages
+![Java](https://shields.io)
+![C++](https://shields.io)
+
+### Web & Scripting
+![Python](https://shields.io)
+![JavaScript](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+
+---
+
+## 🌱 What I'm Up To
+- 🔭 **Current Focus:** Deepening my expertise in object-oriented systems using **Java** and **C++**.
+- 🧠 **Learning Journey:** Actively studying **Machine Learning** concepts and data science pipelines to expand my engineering toolkit.
+- 🎮 **Side Projects:** Writing algorithm simulations, such as my *Minecraft Mock Redeem Code Generator*, to explore algorithmic randomization.
+
+## 📊 GitHub Stats
+![Shahood's GitHub Stats](https://vercel.app)
+
+---
+*“The beautiful thing about learning is nobody can take it away from you.”* — B.B. King
